@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

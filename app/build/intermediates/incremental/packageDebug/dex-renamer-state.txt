@@ -1,0 +1,7 @@
+#Sat Mar 25 19:50:54 IST 2017
+base.0=/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362f68cdb2495db771ed4631ad6b64e979ee8532
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4538820f653eacf73c19711c64cece5bacebd44/classes.dex
+base.1=/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4538820f653eacf73c19711c64cece5bacebd44
+file.0=/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362f68cdb2495db771ed4631ad6b64e979ee8532/classes.dex

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/vishnu/.android/build-cache/20342017e1a440436fec05e401167a13994e98d3/output/res/color-v23/abc_tint_default.xml"
+    }
+]
